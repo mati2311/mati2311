@@ -88,13 +88,7 @@
   
 &nbsp;  
 
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-  
-  
-  
-  </p>
-&nbsp;
+
 
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈
@@ -104,13 +98,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/Lunox-code?tab=repositories">
+<a href="https://https://github.com/mati2311?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mati2311&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       alt='Mati's favorite languages" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/mati2311">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=mati2311&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
